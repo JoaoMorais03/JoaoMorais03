@@ -33,19 +33,14 @@ Stuff that actually mattered:
 
 ### Side systems worth reading
 
-| Repo | Why open it |
-|------|-------------|
-| **[Tiburcio](https://github.com/JoaoMorais03/Tiburcio)** | RAG context layer for Claude Code — Qdrant hybrid search, 12 MCP tools, compact token responses, Docker Compose monorepo (Hono + Vue 3 + BullMQ) |
-| **[Queima25](https://github.com/JoaoMorais03/Queima25)** | Offline Swift + SpriteKit iPhone game; shared-device UX, scene-driven architecture, zero backend |
-| **[HospitalManagementApp](https://github.com/JoaoMorais03/HospitalManagementApp)** | Polyglot services (React / .NET / Node / Prolog) with real service boundaries — ISEP LAPR5, team of 4 |
-| **[noketa-redesign](https://github.com/JoaoMorais03/noketa-redesign)** | Astro landing redesign — typography + restraint, no framework chrome |
-
-<a href="https://github.com/JoaoMorais03/Tiburcio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoMorais03&repo=Tiburcio&theme=transparent&bg_color=171614&title_color=3d8b8f&text_color=d4cfc8&icon_color=3d8b8f&hide_border=true" alt="Tiburcio" />
-</a>
-<a href="https://github.com/JoaoMorais03/Queima25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoMorais03&repo=Queima25&theme=transparent&bg_color=171614&title_color=3d8b8f&text_color=d4cfc8&icon_color=3d8b8f&hide_border=true" alt="Queima25" />
-</a>
+| Project | Status | Why it matters |
+|---------|--------|----------------|
+| **[Tiburcio](https://github.com/JoaoMorais03/Tiburcio)** | public | RAG context layer for Claude Code — Qdrant hybrid search, MCP tools, compact token responses, Docker Compose monorepo |
+| **MoraisEcho** | private | Agent that reviews PRs — grounded feedback on the diff, not generic linter noise |
+| **Claudio** | private | ADE for the AI era — native agent CLIs in a PTY, project/agent chrome around them |
+| **[Queima25](https://github.com/JoaoMorais03/Queima25)** | public | Offline Swift + SpriteKit iPhone game; shared-device UX, scene-driven, zero backend |
+| **[HospitalManagementApp](https://github.com/JoaoMorais03/HospitalManagementApp)** | public | Polyglot services (React / .NET / Node / Prolog) with real boundaries — ISEP LAPR5, team of 4 |
+| **[noketa-redesign](https://github.com/JoaoMorais03/noketa-redesign)** | public | Astro landing redesign — typography + restraint, no framework chrome |
 
 ---
 
