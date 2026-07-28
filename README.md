@@ -40,3 +40,4 @@ B.Sc. Computer Engineering — [ISEP](https://www.isep.ipp.pt/), Porto (2021–2
 
 Most Prozis work lives in private repos — public activity understates day-job shipping. Look at <a href="https://joaomorais.dev">joaomorais.dev</a> and the featured projects above for the fuller picture.
 </details>
+
