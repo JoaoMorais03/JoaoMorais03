@@ -83,7 +83,7 @@ Side projects are how I learn for real. Latest: **[Tiburcio](https://github.com/
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoMorais03/JoaoMorais03/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMorais03&bg_color=171614&color=3d8b8f&line=3d8b8f&point=fbfaf7&area=true&area_color=2a6b6f&hide_border=true&custom_title=Contribution%20graph" alt="Contribution activity graph" />
 </div>
 
 <details>
