@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=3D8B8F&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Full-stack+developer+at+Prozis;Enterprise+platforms+by+day;AI+tooling+by+night;US+permanent+resident+%C2%B7+open+to+relocate" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=3D8B8F&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Full-stack+developer+at+Prozis;Enterprise+platforms+by+day;AI+tooling+by+night;US+permanent+resident+%C2%B7+open+to+relocate" alt="Typing headline" />
 </div>
 
 ---
