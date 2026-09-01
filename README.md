@@ -36,6 +36,7 @@ Stuff that actually mattered:
 | Project | Status | Why it matters |
 |---------|--------|----------------|
 | **[Tiburcio](https://github.com/JoaoMorais03/Tiburcio)** | public | RAG context layer for Claude Code — Qdrant hybrid search, MCP tools, compact token responses, Docker Compose monorepo |
+| **[Claudio Notes](https://github.com/JoaoMorais03/Claudio-Notes)** | public | Learning project: macOS overlay notes in pure Rust + GPUI (Zed's GPU UI framework) — floating window, menu bar, global hotkey, local markdown vault |
 | **MoraisEcho** | private | Agent that reviews PRs — grounded feedback on the diff, not generic linter noise |
 | **Claudio** | private | ADE for the AI era — native agent CLIs in a PTY, project/agent chrome around them |
 | **[Queima25](https://github.com/JoaoMorais03/Queima25)** | public | Offline Swift + SpriteKit iPhone game; shared-device UX, scene-driven, zero backend |
@@ -44,10 +45,18 @@ Stuff that actually mattered:
 
 ---
 
+### Resume highlights
+
+- **joaomorais.dev** — portfolio and CV (Astro + Cloudflare Workers): https://joaomorais.dev
+- **Claudio Notes** — https://github.com/JoaoMorais03/Claudio-Notes (Rust, GPUI, learning project)
+- Full-stack ownership at Prozis: internal platforms, Postgres migrations, AI tooling
+
+---
+
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,java,swift,react,vue,astro,nodejs,spring,postgres,mongodb,docker,aws,cloudflare,tailwind&perline=7" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,java,swift,react,vue,astro,nodejs,spring,postgres,mongodb,docker,aws,cloudflare,tailwind,rust&perline=7" alt="Stack" />
 </p>
 
 ---
