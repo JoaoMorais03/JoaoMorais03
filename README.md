@@ -5,58 +5,59 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=3D8B8F&center=true&vCenter=true&repeat=true&width=720&height=36&lines=Vue+%2B+Spring+internal+platforms+at+scale;RAG+%2F+MCP+tooling+for+Claude+Code;Postgres+migrations+%C2%B7+query+performance;Ship+the+boring+parts+so+AI+can+be+useful" alt="Focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=3D8B8F&center=true&vCenter=true&repeat=true&width=720&height=36&lines=Agent-first+internal+apps+at+Prozis;React+%2B+Java%2FQuarkus+%C2%B7+RAG+over+Qdrant;Expo+%2B+Cloudflare+Workers+%2B+Stripe+Connect;Rust+%2F+Tauri+%C2%B7+MCP+tools+for+AI+agents" alt="Focus areas" />
 </div>
 
 <p align="center">
-  <a href="https://joaomorais.dev">joaomorais.dev</a>
+  <a href="https://joaomorais.dev/">joaomorais.dev</a>
   ·
-  <a href="https://joaomorais.dev/work">case studies</a>
+  <a href="https://joaomorais.dev/work/">projects</a>
   ·
-  <a href="https://github.com/JoaoMorais03?tab=repositories">repos</a>
+  <a href="https://joaomorais.dev/resume.pdf">resume</a>
+  ·
+  <a href="https://linkedin.com/in/joaomoraisdev">linkedin</a>
+  ·
+  <a href="mailto:jp.morais800@gmail.com">email</a>
+</p>
+
+<p align="center">
+  Full-Stack Software Engineer from Portugal, based in Centreville, VA · US permanent resident (no sponsorship needed) · <b>open to SWE roles</b>
 </p>
 
 ---
 
 ### Day job
 
-**Prozis** — full-stack on a 7-person team owning **5 internal platforms** (~1.3k employees).
+**Prozis** (Jul 2025 – present) — one of **4 engineers** maintaining **9 internal products** used by ~1.3k employees.
 
-Stuff that actually mattered:
-- End-to-end ownership (UI → API → data), including one platform reporting to the CEO
-- SQL Server → PostgreSQL migration (~40 tables; largest ~500k rows) with Grafana on the hot paths
-- Prototyping internal AI tooling around Claude Code
+Stuff that actually matters:
+- **KPI** — I own it alone. The company's first **agent-first app** (React + Java/Quarkus): anything you can do by clicking, an AI agent can do through chat, calling KPI's actions as tools and asking for permission before it acts
+- **Metadata** — building it solo: a Node.js + Svelte **RAG** service that embeds company documents in **Qdrant** to give KPI and future agents context
+- Previously owned the **project-management platform**, reporting directly to the CEO — including its engine for scheduled recurring department reports
+- SQL Server → PostgreSQL migration (~40 tables; largest ~500k rows), zero-downtime cutover, watched in Grafana
 
-`Vue 3` · `Java` · `Spring Boot` · `PostgreSQL`
-
----
-
-### Side systems worth reading
-
-| Project | Status | Why it matters |
-|---------|--------|----------------|
-| **[Tiburcio](https://github.com/JoaoMorais03/Tiburcio)** | public | RAG context layer for Claude Code — Qdrant hybrid search, MCP tools, compact token responses, Docker Compose monorepo |
-| **[Claudio Notes](https://github.com/JoaoMorais03/Claudio-Notes)** | public | Learning project: macOS overlay notes in pure Rust + GPUI (Zed's GPU UI framework) — floating window, menu bar, global hotkey, local markdown vault |
-| **MoraisEcho** | private | Agent that reviews PRs — grounded feedback on the diff, not generic linter noise |
-| **Claudio** | private | ADE for the AI era — native agent CLIs in a PTY, project/agent chrome around them |
-| **[Queima25](https://github.com/JoaoMorais03/Queima25)** | public | Offline Swift + SpriteKit iPhone game; shared-device UX, scene-driven, zero backend |
-| **[HospitalManagementApp](https://github.com/JoaoMorais03/HospitalManagementApp)** | public | Polyglot services (React / .NET / Node / Prolog) with real boundaries — ISEP LAPR5, team of 4 |
-| **[noketa-redesign](https://github.com/JoaoMorais03/noketa-redesign)** | public | Astro landing redesign — typography + restraint, no framework chrome |
+`React` · `Java` · `Quarkus` · `Spring Boot` · `Node.js` · `Svelte` · `Vue 3` · `PostgreSQL` · `Qdrant`
 
 ---
 
-### Resume highlights
+### Side projects
 
-- **joaomorais.dev** — portfolio and CV (Astro + Cloudflare Workers): https://joaomorais.dev
-- **Claudio Notes** — https://github.com/JoaoMorais03/Claudio-Notes (Rust, GPUI, learning project)
-- Full-stack ownership at Prozis: internal platforms, Postgres migrations, AI tooling
+| Project | Status | What it is |
+|---------|--------|------------|
+| **[FlaviNight](https://joaomorais.dev/work/flavinight/)** | in development · private | Nightclub ticketing app for Portugal. Co-founder & sole engineer at FlaviByte — Expo / React Native app, one Cloudflare Worker (Hono, D1, R2), Stripe Connect payouts, signed QR tickets |
+| **[Bitácula](https://joaomorais.dev/work/bitacula/)** | in development · private | All-in-one macOS workbench built with a colleague — Rust + Tauri v2 + React/TS; markdown editor, encrypted team vault, Postgres/Kubernetes/Docker/Grafana tools, MCP server for AI agents |
+| **[Queima25](https://github.com/JoaoMorais03/Queima25)** | public | Offline iOS party game in Swift + SpriteKit — up to 15 players on one device, five challenge types |
 
 ---
 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,java,swift,react,vue,astro,nodejs,spring,postgres,mongodb,docker,aws,cloudflare,tailwind,rust&perline=7" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,rust,swift,cs,react,vue,svelte,tauri,astro,tailwind,nodejs,spring,dotnet,postgres,sqlite,mongodb,docker,kubernetes,aws,cloudflare,githubactions,grafana&perline=8" alt="Stack" />
+</p>
+
+<p align="center">
+  Also: <code>Quarkus</code> · <code>Hono</code> · <code>Expo / React Native</code> · <code>Qdrant</code> · <code>Cloudflare D1 / R2</code> · <code>Stripe Connect</code> · <code>RAG</code> · <code>MCP</code> · <code>LLM tool use</code>
 </p>
 
 ---
@@ -66,14 +67,8 @@ Stuff that actually mattered:
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMorais03&layout=compact&theme=transparent&bg_color=171614&title_color=3d8b8f&text_color=d4cfc8&hide_border=true&langs_count=6" alt="Top languages" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMorais03&bg_color=171614&color=3d8b8f&line=3d8b8f&point=fbfaf7&area=true&area_color=2a6b6f&hide_border=true&custom_title=Public%20activity" alt="Activity" width="100%" />
-</div>
-
 <details>
 <summary>Private work note</summary>
 
-Most Prozis commits never hit this graph. Public signal lives in the repos above and on <a href="https://joaomorais.dev/work">joaomorais.dev/work</a>.
+Most of my work (Prozis, FlaviNight, Bitácula) lives in private repos, so it never shows up in these stats. Write-ups live on <a href="https://joaomorais.dev/work/">joaomorais.dev/work</a>.
 </details>

@@ -18,7 +18,7 @@
   <circle cx="980" cy="40" r="160" fill="#3d8b8f" fill-opacity="0.12"/>
   <circle cx="1080" cy="220" r="120" fill="#3d8b8f" fill-opacity="0.08"/>
   <text x="72" y="118" fill="#fbfaf7" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">João Morais</text>
-  <text x="72" y="168" fill="#a8a29c" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="500">Full-stack developer · Centreville, VA</text>
+  <text x="72" y="168" fill="#a8a29c" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="500">Full-Stack Software Engineer · Centreville, VA</text>
   <rect x="72" y="198" width="220" height="36" rx="18" fill="url(#accent)"/>
   <text x="182" y="222" fill="#fbfaf7" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" text-anchor="middle">joaomorais.dev</text>
 </svg>
